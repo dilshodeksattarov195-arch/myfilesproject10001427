@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereender",
+        "uuid": 4419419,
+        "checksum": "55hxsl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
